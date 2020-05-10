@@ -4,7 +4,7 @@ Authors: Daniel Nichols, Hubert Yang, Nancy Phiukhao, Yulia Khisamutdinova, Alex
 
 This project was created using Express, Node, and PostgreSQL.
 
-Demo: [ENTER LINK HERE]
+Demo: https://chore-runner.now.sh/
 
 ## Set up
 
